@@ -31,7 +31,9 @@ This project helps beginners learn how to fetch data from an API and display it 
 
 ##  Project Preview
 
-![Project Screenshot](blogproject.png)
+![Home screenshot](home.png)
+![Home screenshot](blog&catagory.png)
+![Home screenshot](footer.png)
 
 ---
 
