@@ -1,6 +1,6 @@
 #  Blog Website
 
-![Blog Website](blogproject.png)
+
 
 A simple and responsive **Blog Website** built using **React JS**, **Vite**, **Tailwind CSS**, **Axios**, and **JSON Server**.
 
